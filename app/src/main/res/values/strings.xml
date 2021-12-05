@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Doctor</string>
+    <string name="label_get_started_konsultasi">Konsultasi dengan dokter jadi lebih mudah &amp; fleksibel</string>
+    <string name="label_btn_get_started">Get Started</string>
+    <string name="label_btn_sign_in">Sign In</string>
+    <string name="label_masuk_dan_mulai">Masuk dan mulai berkonsultasi</string>
+    <string name="label_email_address">Email Address</string>
+    <string name="label_password">Password</string>
+    <string name="label_forgot_password">Forgot My Password</string>
+    <string name="label_create_new_account">Create New Account</string>
+    <string name="desc_logo_app">Logo My Doctor</string>
+</resources>
